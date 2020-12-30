@@ -1,6 +1,6 @@
 # appstore-icon
 
-https://github.com/JirakJ/appstore-icon/blob/main/apple_app_store.svg
+![apple_app_store.svg](https://github.com/JirakJ/appstore-icon/blob/main/apple_app_store.svg)
 
 Shared under CC0 License
 ✓ Free for personal and commercial use
